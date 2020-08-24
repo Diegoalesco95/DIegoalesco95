@@ -6,10 +6,9 @@
 
 I am  frontend developer with experience in React and with a great passion for learning every day. Also I have some experience programming backend. I like challenges, animations and creating amazing dynamic UIs. Determined and goal-oriented, very good at working and collaborating with people
 
-- 🌱 I’m currently learning Angular .
+- 🌱 I’m currently learning Angular and Vue.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in petroleum engineering;
-- 📫 How to reach me: Diegoalesco95@hotmail.com;
 
 ## 📌 Languages and Tools
 
