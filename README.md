@@ -1,6 +1,6 @@
 ## Hi, I'm Diego Osorio, a Frontend Developer 🚀 from Colombia .
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegoalesco95/) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white)](https://portfolio.diegoalesco95.vercel.app/) [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Diegoalesco95) [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Diegoalesco95) [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:diegoalesco95@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegoalesco95/) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white)](https://portfolio.diegoalesco95.vercel.app/) [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Diegoalesco95) [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Diegoalesco95)
 
 ## 🧐 About
 
